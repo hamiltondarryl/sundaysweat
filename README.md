@@ -1,16 +1,13 @@
 # sundaysweat
 
-A new Flutter project.
+SUNDAYSWEAT est un application de gestion de son équipe de football de sport
 
-## Getting Started
+## Les objecctifs de cette application
 
-This project is a starting point for a Flutter application.
+Cette application permettre de gérer plusieur aspect dans une équipe de football d'amis ou une association ...
 
-A few resources to get you started if this is your first Flutter project:
+les aspects sont les suivants:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Permettre à une équipe de faire le classement avant de le match (le choix du nombre de joueur se fera en fonction des terrains , il y'a des terrains de salle à l'exemple du ballon d'or et des terrains de football conventionnel donc 11 acteurs par équipe);
+- Permettre une gestion financière : c'est-à-dire éffectuer la recole des gains par rapport à des depenses quelconque (cotisation du terrain, la 3ième mi-temps);
+- 
