@@ -1,11 +1,11 @@
 # sundaysweat
 
-SUNDAYSWEAT est un application de gestion de son équipe de football de sport
+SUNDAYSWEAT est un application de gestion de son équipe de football
 
-## Les objectifs de cette application
+## QUE FAIT CETTE APPLICATION ???
 
 Cette application permettre de gérer plusieur aspect dans une équipe de football d'amis ou une association ...
-
+s
 les aspects sont les suivants:
 
 - Permettre à une équipe de faire le classement avant de le match (le choix du nombre de joueurs se fera en fonction des terrains , il y a des terrains de salle à l'exemple du ballon d'or et des terrains de football conventionnel donc 11 acteurs par équipes);
